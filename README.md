@@ -3,4 +3,4 @@ Projeto de sistemas embarcados para o acionamento de um motor BiStep em um siste
 
 Comunicação entre módulos bluetooth que realizam o acionamento do motor.
 
-Link vídeo do funcionamento do projeto: https://www.youtube.com/watch?v=wISc1P5djvY
+Vídeo do projeto: https://www.youtube.com/watch?v=wISc1P5djvY
